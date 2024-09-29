@@ -1,0 +1,9 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+.bg-primary {
+    height: 100vh; /* Ensures it covers the full viewport height */
+}
+  
